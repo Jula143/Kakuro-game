@@ -1,0 +1,10 @@
+release/gamerules.o
+release/interface.o
+release/main.o
+release/mainwindow.o
+release/myboard.o
+release/mycell.o
+release/qrc_resoucres.o
+release/moc_gamerules.o
+release/moc_interface.o
+release/moc_mainwindow.o
