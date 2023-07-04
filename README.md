@@ -1,2 +1,4 @@
 # Kakuro-game
-Kakuro game in C++
+The program is designed for playing Kakuro, a puzzle game where the goal is to fill empty white cells with numbers so that the sum of the digits in horizontal and vertical sequences equals the numbers indicated in the black cells on the board. The game board can have a square size ranging from 3 to 10 cells per side. The board consists of two types of cells: black cells indicating the sum of the numbers in the adjacent horizontal or vertical sequence until the next sum, and white cells that the player can fill with numbers from one to nine. The player must ensure that the digits entered in a sequence do not repeat.
+
+The program also allows measuring the time from starting a new game until successfully filling all the cells. It supports saving and loading previously saved games.
