@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zasoby/ikona.ico</file>
+        <file>zasoby/ikona.jpg</file>
+        <file>zasoby/starter.png</file>
+        <file>zasoby/end3.png</file>
+        <file>zasoby/starter2.png</file>
+        <file>zasoby/gra/gra_1.png</file>
+        <file>zasoby/gra/gra_2.png</file>
+        <file>zasoby/gra/gra_3.png</file>
+        <file>zasoby/gra/gra_4.png</file>
+        <file>zasoby/gra/gra_5.png</file>
+        <file>zasoby/gra/gra_6.png</file>
+        <file>zasoby/gra/gra_7.png</file>
+        <file>zasoby/gra/gra_8.png</file>
+        <file>zasoby/gra/gra_9.png</file>
+        <file>zasoby/gra/gra_10.png</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>
